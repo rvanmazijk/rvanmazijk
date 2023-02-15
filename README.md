@@ -1,4 +1,14 @@
-### Hi there 👋
+Ruan van Mazijk (he/him)
+
+- Research & Publications Intern @ [C4 EcoSolutions](https://github.com/C4EcoSolutions) 🌱🌍
+- Ecologist, evolutionary biologist & botanist 🌿🌾
+- MSc (submitted) from [the Department of Biological Sciences](www.biologicalsciences.uct.ac.za), [University of Cape Town](https://uct.ac.za/) \
+- [1 page CV](https://github.com/rvanmazijk/cv/blob/master/RvanMazijk_CV_1p.pdf)
+- Email: ruanvmazijk@gmail.com
+
+Find me elsewhere: \
+[ResearchGate](https://www.researchgate.net/profile/Ruan-Van-Mazijk) | [Google Scholar](https://scholar.google.com/citations?user=lXBzsJ8AAAAJ&hl=en) | [ORCID](https://orcid.org/0000-0003-2659-6909) \
+[Twitter](https://twitter.com/rvanmazijk) | [LinkedIn](https://www.linkedin.com/in/ruan-van-mazijk-4a04b0127/)
 
 <!--
 **rvanmazijk/rvanmazijk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
