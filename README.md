@@ -1,6 +1,6 @@
 **Ruan van Mazijk** (he/him)
 
-- Research & Publications Intern @ [C4 EcoSolutions](https://github.com/C4EcoSolutions) 🌱🌍
+- Research & Publishing Intern @ [C4 EcoSolutions](https://github.com/C4EcoSolutions) 🌱🌍
 - Ecologist, evolutionary biologist & botanist 🌿🌾
 - BSc Hons, MSc (submitted) from [the Department of Biological Sciences](www.biologicalsciences.uct.ac.za), [University of Cape Town](https://uct.ac.za/)
 - [1 page CV](https://github.com/rvanmazijk/cv/blob/master/RvanMazijk_CV_1p.pdf)
